@@ -241,3 +241,18 @@ footer#rodape {
 footer#rodape p {
     text-align: center;
 }
+
+section#galeria {
+	width: 800px;
+	height: 300px;
+}
+
+section#contato {
+	width: 800px;
+	height: 300px;
+}
+
+section#about {
+	width: 800px;
+	height: 300px;
+}
